@@ -1,5 +1,5 @@
 # PhotoAlbumViewer
-Console program written in Python that allows the users to select a photo album and display its contents.
+Console program written in Python that allows the users to select a photo album and display its contents. The photo albums are pulled from a url that contains JSON code with descriptions for the photos. 
 
 Programming Language: Python 3.6.5
 
@@ -12,4 +12,6 @@ How to run:
 5. Enjoy the program! If you ran into any errors ensure that you are in the correct file location and that you have
    successfully installed Python
    
+If you have any issues running this program feel free to email chasestruse@gmail.com. 
 
+Thank you!
